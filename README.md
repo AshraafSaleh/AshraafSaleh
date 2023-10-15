@@ -1,6 +1,6 @@
 <div id="profileView" align="center">
   <h1>Hey there, I'm Ashraaf Saleh</h1>
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="GIF" width="280" height="200">
+  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="GIF" width="320" height="240">
   <h2 align="center">Strive to be better every minute!</h2>
 </div>
 
