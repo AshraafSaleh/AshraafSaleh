@@ -7,14 +7,14 @@
 </div>
 
 #### 👨: About Me
-- Enthusiast programmer that in love with software developement.
+- Programmer with a passion for software development.
 - Currently exploring **Python, Anaconda, and Alteryx**
 
 #### 🖥️: Projects
 1) [School Playground Website](https://intellectplayschool.com/)👨‍🏫:
-- Assigned as a leader to be in charged with my other group member to develop a demo website for a school playground.
+- Assigned as a leader to oversee the timely creation of a prototype website for a school playground and the presentation with my other group member.
 - Using HTML, PHP and JavaScript as my base code, and also mySql as the database, me and my team are able to develop a fully functional website for the client.
-- I also able to explore new things regarding this line of work either in the aspect of the confrontation with the client and also the being a full stack debveloper. 
+- I was also able to learn new things about this line of business, both in terms of dealing with clients directly and in the background working as a ful stack developer.
 
 ---
 
