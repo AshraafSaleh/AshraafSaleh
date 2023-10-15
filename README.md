@@ -11,7 +11,7 @@
 - Currently exploring **Python, Anaconda, and Alteryx**
 
 #### 🖥️: Projects
-[School Playground Website](https://intellectplayschool.com/)
+1) [School Playground Website](https://intellectplayschool.com/)👨‍🏫:
 - Assigned as a leader to be in charged with my other group member to develop a demo website for a school playground.
 - Using HTML, PHP and JavaScript as my base code, and also mySql as the database, me and my team are able to develop a fully functional website for the client.
 - I also able to explore new things regarding this line of work either in the aspect of the confrontation with the client and also the being a full stack debveloper. 
