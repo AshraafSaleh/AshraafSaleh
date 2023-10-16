@@ -8,7 +8,7 @@
 #### 👨: About Me
 - Programmer with a passion for software development.
 - Currently exploring **Python, Anaconda, and Alteryx**
-- Brave and outgoinng with a few experience talking in front of people.
+- Brave and outgoing with a few experience talking in front of people.
 
 #### 🖥️: Projects
 1) [School Playground Website](https://intellectplayschool.com/)👨‍🏫:
