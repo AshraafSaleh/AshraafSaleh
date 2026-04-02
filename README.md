@@ -41,8 +41,4 @@
 
 #### 📊 My GitHub Statistics
 
-<p align='center'><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=AshraafSaleh&show_icons=true&locale=en&layout=compact" alt="qaisarrra" /></p>
-
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshraafSaleh&show_icons=true&locale=en" alt="qaisarrra" /></p>
-
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshraafSaleh&" alt="nqbzkr01" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshraafSaleh&" alt="stats" /></p>
