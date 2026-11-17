@@ -1,44 +1,64 @@
-<div id="profileView" align="center">
-  <h1>Hey there, I'm Ashraaf Saleh</h1>
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="GIF" width="350" height="270">
-  <h2 align="center">Strive to be better every minute!</h2>
+<div align="center">
+
+# Ashraaf Saleh
+
+Full-stack developer at **KOTA MAS** (Koperasi Telekom Malaysia Berhad).
+I build the web systems the co-operative's members and staff use every day.
+
+[kotamas.com.my](https://kotamas.com.my)
+
 </div>
 
+---
 
-#### 👨: About Me
-- Programmer with a passion for software development.
-- Currently exploring **Python, Anaconda, and Alteryx**
-- Brave and outgoing with a few experience talking in front of people.
+### What I'm building
 
-#### 🖥️: Projects
-1) [School Playground Website](https://intellectplayschool.com/)👨‍🏫:
-- Assigned as a leader to oversee the timely creation of a prototype website for a school playground and the presentation with my other group member.
-- Using HTML, PHP and JavaScript as my base code, and also mySql as the database, me and my team are able to develop a fully functional website for the client.
-- I was also able to learn new things about this line of business, both in terms of dealing with clients directly and in the background working as a ful stack developer.
+Most of the co-op's in-house software, from the public website to the back office. It all runs on shared cPanel hosting, so I build for that: plain PHP where it's enough, Laravel or Slim where they earn it, and automated tests on every change.
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[kotamas.com.my](https://kotamas.com.my)** | Public website and membership portal: online sign-up, member applications, staff dashboard | PHP 8 · Slim 4 · Latte · Playwright |
+| **E-Voucher** | Replaces paper payment vouchers: staff upload the PDF, up to four signers are notified in turn and sign online | PHP · PWA · push notifications |
+| **KoopHub** | One member API for every in-house system, synced twice a day from a 29-year-old VB6 / Access 97 system | PHP · MySQL |
+| **MyKotaMas** | Phone-first member app (Malay and English) showing each member their own record *(in progress)* | PHP · PWA |
+| **Election system** | Ballots and live results for the co-op's annual meeting | PHP API · React · Vite |
+| **Travel & Tours** | Property browsing, availability calendar, bookings and payment checks for the co-op's travel arm | Laravel 12 · Tailwind |
+| **KAMS** | Fixed-asset register with QR stickers, book values and due dates *(in progress)* | PHP · MySQL |
+| **Data-entry bots** | Playwright scripts that type spreadsheet data into an external web system, the way a person would | Playwright |
+
+Earlier: led a student team that built the website for [Intellect Play School](https://intellectplayschool.com/) (HTML, PHP, JavaScript, MySQL), from client meetings to handover.
 
 ---
 
-#### 🛠️ Languages and Tools
+### Stack
 
-### Data Science
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-%23150458.svg?style=for-the-badge&logo=knime-analytics-platform&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySql-%23777BB4.svg?style=for-the-badge&logo=MySql&logoColor=white)
-
+**Also used:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-#### 📊 My GitHub Statistics
+<div align="center">
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshraafSaleh&" alt="stats" /></p>
+<a href="https://github.com/AshraafSaleh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AshraafSaleh&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=AshraafSaleh&hide_border=true" alt="GitHub contribution streak for AshraafSaleh">
+  </picture>
+</a>
+
+</div>
