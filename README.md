@@ -1,15 +1,26 @@
 <div align="center">
 
-# Ashraaf Saleh
+# Hey there, I'm Ashraaf Saleh
+
+<img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Animated illustration of a developer coding" width="350" height="270">
+
+### Strive to be better every minute!
+
+<br>
 
 Full-stack developer at **KOTA MAS** (Koperasi Telekom Malaysia Berhad).
+
 I build the web systems the co-operative's members and staff use every day.
 
 [kotamas.com.my](https://kotamas.com.my)
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ### What I'm building
 
@@ -26,9 +37,15 @@ Most of the co-op's in-house software, from the public website to the back offic
 | **KAMS** | Fixed-asset register with QR stickers, book values and due dates *(in progress)* | PHP · MySQL |
 | **Data-entry bots** | Playwright scripts that type spreadsheet data into an external web system, the way a person would | Playwright |
 
+<br>
+
 Earlier: led a student team that built the website for [Intellect Play School](https://intellectplayschool.com/) (HTML, PHP, JavaScript, MySQL), from client meetings to handover.
 
+<br>
+
 ---
+
+<br>
 
 ### Stack
 
@@ -44,13 +61,20 @@ Earlier: led a student team that built the website for [Intellect Play School](h
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-**Also used:**
+<br>
+
+**Also used**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
