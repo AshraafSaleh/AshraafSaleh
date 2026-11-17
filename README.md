@@ -39,7 +39,13 @@ Most of the co-op's in-house software, from the public website to the back offic
 
 <br>
 
-Earlier: led a student team that built the website for [Intellect Play School](https://intellectplayschool.com/) (HTML, PHP, JavaScript, MySQL), from client meetings to handover.
+### School project
+
+**[Intellect Play School website](https://intellectplayschool.com/)** · HTML · PHP · JavaScript · MySQL
+
+- Team leader: kept the build on schedule and led the prototype presentation to the client.
+- Worked full stack with my team to deliver a fully working website for a real client.
+- Learned how to work directly with a client, from first requirements to handover.
 
 <br>
 
